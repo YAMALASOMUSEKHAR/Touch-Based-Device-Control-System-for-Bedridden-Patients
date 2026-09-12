@@ -1,6 +1,6 @@
 # Touch-Based-Device-Control-System-for-Bedridden-Patients
 
-#Overview
+# Overview
 
 Enables bedridden patients to control electronic devices using a touch-based interface.
 Developed using the LPC2124 ARM7 Microcontroller.
@@ -99,7 +99,7 @@ Ensured reliable input processing and accurate device control operations.
 Strengthened understanding of embedded system concepts such as I/O interfacing, SPI communication, and interrupt handling.
 Built a scalable foundation for applications like home automation and smart control systems.
 
-#Conclusion
+# Conclusion
 Successfully developed a touch-based device control system using Embedded C.
 Ensures secure access through password authentication.
 Provides user-friendly device control with LCD feedback.
