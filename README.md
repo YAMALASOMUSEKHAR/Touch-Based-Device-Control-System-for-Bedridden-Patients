@@ -1,6 +1,7 @@
 # Touch-Based-Device-Control-System-for-Bedridden-Patients
 
-Overview
+#Overview
+
 Enables bedridden patients to control electronic devices using a touch-based interface.
 Developed using the LPC2124 ARM7 Microcontroller.
 Provides secure access through password authentication.
@@ -11,14 +12,15 @@ Supports password entry and modification using a keypad.
 Implements interrupt-based password update functionality.
 Demonstrates Embedded C programming, UART, SPI, EEPROM interfacing, and interrupt handling.
 Improves convenience, accessibility, and independence for physically challenged individuals.
-Block Diagram
+
+# Block Diagram
 
 
 
-Project Images And Videos
+# Project Images And Videos
 https://drive.google.com/drive/folders/1QpSErZH3KshvxiU8Xgjd9GdowBaQYrSA?usp=drive_link
 
-Features
+# Features
 Touch-based device control
 Password-protected access
 EEPROM-based password storage
@@ -29,7 +31,8 @@ SPI communication with EEPROM
 UART communication support
 LED and buzzer control
 Interrupt-driven operation
-Hardware Requirements
+
+# Hardware Requirements
 LPC2124 ARM7 Microcontroller
 Resistive Touch Screen
 20x4 LCD Display
@@ -38,19 +41,22 @@ SPI EEPROM
 LEDs
 Buzzer
 Power Supply
-Software Requirements
+
+# Software Requirements
 Embedded C
 Keil uVision
 Flash Magic
 Proteus (Optional for Simulation)
-Working Principle
+
+# Working Principle
 User enters a valid password through the keypad.
 Password is verified using EEPROM-stored credentials.
 Upon successful authentication, the touch interface is enabled.
 Users can control connected devices through predefined touch regions.
 Password can be changed securely through an interrupt-based password update mechanism.
 Updated passwords are stored permanently in EEPROM.
-Modules Used
+
+# Modules Used
 LCD Interface
 Keypad Interface
 Touch Screen Interface
@@ -58,26 +64,30 @@ UART Communication
 SPI EEPROM Interface
 External Interrupts
 Device Control Module
-Applications
+
+# Applications
 Smart Hospital Rooms
 Patient Assistance Systems
 Home Automation
 Elderly Care Systems
 Assistive Healthcare Devices
-Future Enhancements
+
+# Future Enhancements
 Wireless device control
 IoT integration
 Mobile application support
 Voice-controlled operation
 Cloud-based monitoring
-Technologies Used
+
+# Technologies Used
 Embedded C
 LPC2124 ARM7
 SPI Protocol
 UART Communication
 EEPROM Memory
 Interrupt Programming
-Project Outcomes
+
+# Project Outcomes
 Developed a Touch-Based Device Control System using Embedded C.
 Implemented user input handling through keypad/touch interface for device control.
 Added secure password authentication to prevent unauthorized access.
@@ -88,7 +98,8 @@ Achieved modular code structure by separating functionalities into different .c 
 Ensured reliable input processing and accurate device control operations.
 Strengthened understanding of embedded system concepts such as I/O interfacing, SPI communication, and interrupt handling.
 Built a scalable foundation for applications like home automation and smart control systems.
-Conclusion
+
+#Conclusion
 Successfully developed a touch-based device control system using Embedded C.
 Ensures secure access through password authentication.
 Provides user-friendly device control with LCD feedback.
