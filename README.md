@@ -15,14 +15,12 @@
 ## Block Diagram
 
 <p align="center">
-  <img src="block_diagram.png" alt="Block Diagram" width="500">
+  <img src="" alt="Block Diagram" width="500">
 </p>
 
 
 ## Project Images And Videos
 
-Update README.md
-2 months ago
 https://drive.google.com/drive/folders/1QpSErZH3KshvxiU8Xgjd9GdowBaQYrSA?usp=drive_link
 
 ## Features
