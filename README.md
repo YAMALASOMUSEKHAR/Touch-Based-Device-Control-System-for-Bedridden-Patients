@@ -7,30 +7,34 @@
 + Provides secure access through password authentication.
 + Stores user credentials in EEPROM via SPI communication.
 + Allows device ON/OFF control through a touch screen.
-Displays system status and user instructions on an LCD.
-Supports password entry and modification using a keypad.
-Implements interrupt-based password update functionality.
-Demonstrates Embedded C programming, UART, SPI, EEPROM interfacing, and interrupt handling.
-Improves convenience, accessibility, and independence for physically challenged individuals.
++ Displays system status and user instructions on an LCD.
++ Supports password entry and modification using a keypad.
++ Implements interrupt-based password update functionality.
++ Demonstrates Embedded C programming, UART, SPI, EEPROM interfacing, and interrupt handling.
++ Improves convenience, accessibility, and independence for physically challenged individuals.
 
 # Block Diagram
+
+<p align="center">
+  <img src="block_diagram.png" alt="Block Diagram" width="500">
+</p>
 
 
 
 # Project Images And Videos
-https://drive.google.com/drive/folders/1QpSErZH3KshvxiU8Xgjd9GdowBaQYrSA?usp=drive_link
+https://drive.google.com/drive/folders/1eSIXSjyRSGSCWk0NMTym_ai5NLiXfWib
 
 # Features
-Touch-based device control
-Password-protected access
-EEPROM-based password storage
-Password modification using external interrupt
-LCD display for user interaction
-Matrix keypad for password entry
-SPI communication with EEPROM
-UART communication support
-LED and buzzer control
-Interrupt-driven operation
++ Touch-based device control
++ Password-protected access
++ EEPROM-based password storage
++ Password modification using external interrupt
++ LCD display for user interaction
++ Matrix keypad for password entry
++ SPI communication with EEPROM
++ UART communication support
++ LED and buzzer control
++ Interrupt-driven operation
 
 # Hardware Requirements
 LPC2124 ARM7 Microcontroller
