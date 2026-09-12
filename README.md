@@ -15,13 +15,13 @@
 ## Block Diagram
 
 <p align="center">
-  <img src="" alt="Block Diagram" width="500">
+  <img src="block_diagram.png" alt="Block Diagram" width="500">
 </p>
 
 
 ## Project Images And Videos
 
-https://drive.google.com/drive/folders/1QpSErZH3KshvxiU8Xgjd9GdowBaQYrSA?usp=drive_link
+https://drive.google.com/drive/folders/1eSIXSjyRSGSCWk0NMTym_ai5NLiXfWib
 
 ## Features
 - Touch-based device control
