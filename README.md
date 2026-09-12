@@ -52,16 +52,16 @@ https://drive.google.com/drive/folders/1eSIXSjyRSGSCWk0NMTym_ai5NLiXfWib
 - Proteus (Optional for Simulation)
 
 ## Working Principle
-1. User enters a valid password through the keypad.
-2. Password is verified using EEPROM-stored credentials.
-3. Upon successful authentication, the touch interface is enabled.
-4. Users can control connected devices through predefined touch regions.
-5. Password can be changed securely through an interrupt-based password update mechanism.
-6. Updated passwords are stored permanently in EEPROM.
+- User enters a valid password through the keypad.
+- Password is verified using EEPROM-stored credentials.
+- Upon successful authentication, the touch interface is enabled.
+- Users can control connected devices through predefined touch regions.
+- Password can be changed securely through an interrupt-based password update mechanism.
+- Updated passwords are stored permanently in EEPROM.
 
 ## Modules Used
 - LCD Interface
-- Keypad Interface
+- Keypad Inter face
 - Touch Screen Interface
 - UART Communication
 - SPI EEPROM Interface
