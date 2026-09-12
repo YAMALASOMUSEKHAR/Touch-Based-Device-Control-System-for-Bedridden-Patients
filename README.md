@@ -2,8 +2,8 @@
 
 # Overview
 
-Enables bedridden patients to control electronic devices using a touch-based interface.
-Developed using the LPC2124 ARM7 Microcontroller.
++/Enables bedridden patients to control electronic devices using a touch-based interface.
++Developed using the LPC2124 ARM7 Microcontroller.
 Provides secure access through password authentication.
 Stores user credentials in EEPROM via SPI communication.
 Allows device ON/OFF control through a touch screen.
