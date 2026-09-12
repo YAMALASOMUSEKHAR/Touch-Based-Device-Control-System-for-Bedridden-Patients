@@ -1,3 +1,17 @@
+# Touch-Based Device Control System for Bedridden Patients
+
+## Overview
+- Enables bedridden patients to control electronic devices using a touch-based interface.
+- Developed using the LPC2124 ARM7 Microcontroller.
+- Provides secure access through password authentication.
+- Stores user credentials in EEPROM via SPI communication.
+- Allows device ON/OFF control through a touch screen.
+- Displays system status and user instructions on an LCD.
+- Supports password entry and modification using a keypad.
+- Implements interrupt-based password update functionality.
+- Demonstrates Embedded C programming, UART, SPI, EEPROM interfacing, and interrupt handling.
+- Improves convenience, accessibility, and independence for physically challenged individuals.
+
 ## Block Diagram
 
 <p align="center">
